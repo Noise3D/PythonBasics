@@ -442,5 +442,3 @@
 
 name = "Bro"
 print("Hello, my name is {}".format(name))
-print("Barev aper")
-x = 3
